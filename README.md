@@ -1,4 +1,3 @@
-"""
 - This file includes:
 - Moderation: /ban, /kick, /timeout, /warn, /warnings, /purge, /lock,
   /unlock and /slowmode
@@ -52,5 +51,3 @@ The bot automatically creates these JSON files beside this script:
 Keep these files if you want the saved data to survive restarts. Back them up
 before moving or editing the bot. Do not edit them while the bot is running.
 
-===============================================================================
-"""
