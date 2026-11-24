@@ -1,4 +1,4 @@
-- This file includes:
+This file includes:
 - Moderation: /ban, /kick, /timeout, /warn, /warnings, /purge, /lock,
   /unlock and /slowmode
 - Tickets: /ticket-setup plus a Create Ticket button and Close Ticket button
